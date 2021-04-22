@@ -1,1 +1,1 @@
-# Exercicios-da-Faculdade
+# Exercícios da Faculdade
