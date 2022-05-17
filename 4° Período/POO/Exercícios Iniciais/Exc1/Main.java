@@ -1,3 +1,5 @@
+package 4° Período.POO.ExercíciosIniciais.Exc1;
+
 import java.util.Scanner;
 
 public class Main{
