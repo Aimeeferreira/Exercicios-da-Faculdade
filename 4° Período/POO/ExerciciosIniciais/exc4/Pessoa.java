@@ -1,5 +1,3 @@
-package ExerciciosIniciais.exc4;
-
 public class Pessoa {
     public String nome;
     public String endereco;

@@ -1,4 +1,3 @@
-package ExerciciosIniciais.Exc3;
 public class Boleto{
     private String cliente;
     private String venc;

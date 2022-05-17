@@ -1,5 +1,3 @@
-package ExerciciosIniciais.Exc2;
-
 public class Eleitor
 {  
     private String nome;

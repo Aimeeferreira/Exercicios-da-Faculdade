@@ -1,4 +1,3 @@
-package ExerciciosIniciais.Exc1;
 public class Trabalhador {
     public Integer matricula;
     public String nome;
