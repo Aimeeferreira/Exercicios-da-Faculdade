@@ -1,4 +1,3 @@
-package 4° Período.POO.Exercícios Iniciais.Exc1;
 
 public class Trabalhador {
     public Integer matricula;
