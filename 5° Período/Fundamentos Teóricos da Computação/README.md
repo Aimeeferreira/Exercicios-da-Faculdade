@@ -1,4 +1,4 @@
-<img src= "tc.svg"/>
+<img src= ""/>
 <h1 align= "center">
 <p>Teoria da Computação</p>
 <font size="3">
