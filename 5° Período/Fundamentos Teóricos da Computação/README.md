@@ -1,4 +1,4 @@
-
+<img src="ftc.gif">
 
 <h1 align= "center">
 <p>Teoria da Computação</p>
