@@ -1,5 +1,4 @@
-<img src="ftc.gif">
-
+<img src= "tc.svg"/>
 <h1 align= "center">
 <p>Teoria da Computação</p>
 <font size="3">
