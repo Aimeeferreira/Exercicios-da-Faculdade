@@ -1,4 +1,4 @@
-<img src= ""/>
+<img src="ttc.png"/>
 <h1 align= "center">
 <p>Teoria da Computação</p>
 <font size="3">
