@@ -1,4 +1,4 @@
-<img src="ttc.png"/>
+<img src="![ftc ed](https://user-images.githubusercontent.com/63868754/185178750-91686a9f-fa37-4bbd-8ef5-d513624d373c.gif)"/>
 <h1 align= "center">
 <p>Teoria da Computação</p>
 <font size="3">
