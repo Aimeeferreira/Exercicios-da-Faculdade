@@ -1,11 +1,9 @@
-
 <h1 align= "center">
 <p>Teoria da Computação</p>
 <font size="3">
 <p>Lecionado por Felipe Cunha 🧑🏽‍💼</p>
 </font>
 </h1>
-
  <br>
  
 # Tópicos vistos:
