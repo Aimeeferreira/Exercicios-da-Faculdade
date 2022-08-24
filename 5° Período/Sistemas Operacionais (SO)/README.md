@@ -113,7 +113,7 @@
 - [Implementação de Arquivos](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
 - [Tabelas de Descritores de Arquivos](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
 - [Tabelas de Arquivos Abertos por Processo (TAAP)](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
-- [Emprego conjunto das tabelas TAAP e TDAA](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
+- [Emprego conjunto das Tabelas TAAP e TDAA](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
 - [Gerenciamento do Dispositivo de Armazenamento](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
 - [Alocação do Espaço em Disco](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
 - [Alocação Contígua](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Sistemas%20Operacionais%20(SO)/Slides/SO%20-%20Slide%2006.pdf)
