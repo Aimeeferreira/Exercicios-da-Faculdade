@@ -6,7 +6,7 @@
 </h1>
  <br>
  
-# Tópicos vistos:
+# 📚Tópicos vistos:
 - [Linguagens Formais e Autômatos](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Fundamentos%20Te%C3%B3ricos%20da%20Computa%C3%A7%C3%A3o/Slides/Aula01.pdf)
 - [Autômatos Finitos Determinísticos (AFD)](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Fundamentos%20Te%C3%B3ricos%20da%20Computa%C3%A7%C3%A3o/Slides/Aula02.pdf)
 - [Minimização de AFD's](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Fundamentos%20Te%C3%B3ricos%20da%20Computa%C3%A7%C3%A3o/Slides/Aula03.pdf)
@@ -19,10 +19,9 @@
 - [Gramática Livre de Contexto (GLC)](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Fundamentos%20Te%C3%B3ricos%20da%20Computa%C3%A7%C3%A3o/Slides/Aula10.pdf)
 
 <br>
-<br>
 
 <h1 align= "center">
-<font size="3">
+<font size="4">
 <p2>2022</p2>
 </font>
 </h1>
