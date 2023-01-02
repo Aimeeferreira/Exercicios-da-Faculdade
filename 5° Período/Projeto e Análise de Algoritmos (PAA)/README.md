@@ -61,31 +61,17 @@
 - [Arquivos Indexados](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula04-Arquivos%20indexados.pdf)
 - [Arquivos Indexados por Chave Primária e Secundária](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula04-Arquivos%20indexados.pdf)
 - [Tipos de Índices](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula04-Arquivos%20indexados.pdf)
-
-
-<br>
-
-
 - [Árvore B() -> Regras, índices, estrutura da página, busca, inserção, remoção](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula05-%C3%81rvore%20B.pdf)
 - [Árvore B+ -> Operações, inclusão, remoção, busca, ](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula05-%C3%81rvore%20B.pdf)
-
-<br>
-
-
 - [Tempo de Processamento](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula06-Tempo.pdf)
-
-<br>
-
 - [Notação](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula07-Notacao.pdf)
-
-
-<br>
-
 - [Classes de Comportamento Assintótico](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula08-Classes.pdf)
 - [Comparação de Programas](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula08-Classes.pdf)
 - [Tipos de Complexidade](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula08-Classes.pdf)
 
 <br>
+
+ ## 📍Unidade Cinco
 
 - [Recursividade](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula09-Recursao.pdf)
 - [Problema de Terminação](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula09-Recursao.pdf)
@@ -98,23 +84,12 @@
 - [QuickSort](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula09-Recursao.pdf)
 - [Somatórios](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula09-Recursao.pdf)
 - [Teorema Mestre](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula09-Recursao.pdf)
-
-<br>
-
-- [HASH - ](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula15-Hash.pdf)
-
-<br>
-
+- [HASH](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula15-Hash.pdf)
 - [Técnicas de Projeto - Força Bruta, Trasformar e Conquistar, Decrementar e Conquistar](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula10-TecnicasProjeto01UIT.pdf)
 - [Técnicas de Retrocesso (Backtracking)](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula12-TecnicasProjeto03UIT.pdf)
-
-
 - [Programação Dinâmica e Otimalidade](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula13-TecnicasProjeto04UIT.pdf)
 - [Sequência de Fibonacci](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula13-TecnicasProjeto04UIT.pdf)
 - [Multiplicação de Matrizes](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula13-TecnicasProjeto04UIT.pdf)
-
-
-
 - [Algoritmos Gulosos](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula14-TecnicasProjeto05UIT.pdf)
 - [Programação Dinâmica x Algoritmos Gulosos](https://github.com/Aimeeferreira/Exercicios-da-Faculdade/blob/main/5%C2%B0%20Per%C3%ADodo/Projeto%20e%20An%C3%A1lise%20de%20Algoritmos%20(PAA)/Slides/Aula14-TecnicasProjeto05UIT.pdf)
 
